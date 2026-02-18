@@ -2,6 +2,8 @@
 
 A multilingual data engineering pipeline that ingests, processes, and analyses EU Parliamentary speeches from the Europarl corpus using NLP techniques. Built with Python, spaCy, PostgreSQL, MongoDB, and Streamlit.
 
+🚀 **Live Demo:** https://europarl-nlp-pipeline-i8h56zc47zgt39wgfqfxmt.streamlit.app/
+
 ---
 
 ## Prerequisites
