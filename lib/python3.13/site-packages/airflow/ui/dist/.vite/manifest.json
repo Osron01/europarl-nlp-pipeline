@@ -1,0 +1,29 @@
+{
+  "_browser-ponyfill-DDzUZvsK.js": {
+    "file": "assets/browser-ponyfill-DDzUZvsK.js",
+    "name": "browser-ponyfill",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "index.html": {
+    "file": "assets/index-DMFz1oOG.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "_browser-ponyfill-DDzUZvsK.js",
+      "src/pages/Dag/Overview/FailedLogs.tsx"
+    ]
+  },
+  "src/pages/Dag/Overview/FailedLogs.tsx": {
+    "file": "assets/FailedLogs-DzHxICDI.js",
+    "name": "FailedLogs",
+    "src": "src/pages/Dag/Overview/FailedLogs.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  }
+}
