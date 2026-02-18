@@ -1,0 +1,239 @@
+{
+  "lang_pair": "bg-en-20260218-nlp",
+  "total_records": 500,
+  "sentiment_distribution": {
+    "positive": 94,
+    "neutral": 377,
+    "negative": 29,
+    "total": 500,
+    "positive_pct": 18.8,
+    "neutral_pct": 75.4,
+    "negative_pct": 5.8
+  },
+  "avg_sentiment_score": 0.067,
+  "top_entities": [
+    {
+      "text": "Commission",
+      "label": "ORG",
+      "count": 48
+    },
+    {
+      "text": "Council",
+      "label": "ORG",
+      "count": 42
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "count": 34
+    },
+    {
+      "text": "European",
+      "label": "NORP",
+      "count": 34
+    },
+    {
+      "text": "Community",
+      "label": "ORG",
+      "count": 30
+    },
+    {
+      "text": "the European Parliament",
+      "label": "ORG",
+      "count": 28
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "count": 24
+    },
+    {
+      "text": "the European Union",
+      "label": "ORG",
+      "count": 19
+    },
+    {
+      "text": "Deprez",
+      "label": "PERSON",
+      "count": 16
+    },
+    {
+      "text": "Member States",
+      "label": "GPE",
+      "count": 14
+    },
+    {
+      "text": "Europe",
+      "label": "LOC",
+      "count": 13
+    },
+    {
+      "text": "the Conciliation Committee",
+      "label": "ORG",
+      "count": 11
+    },
+    {
+      "text": "Zwiefka",
+      "label": "PERSON",
+      "count": 9
+    },
+    {
+      "text": "Mrs Pagano",
+      "label": "PERSON",
+      "count": 9
+    },
+    {
+      "text": "the Member States",
+      "label": "GPE",
+      "count": 8
+    },
+    {
+      "text": "IPA",
+      "label": "ORG",
+      "count": 8
+    },
+    {
+      "text": "Justice",
+      "label": "ORG",
+      "count": 7
+    },
+    {
+      "text": "Home Affairs",
+      "label": "ORG",
+      "count": 7
+    },
+    {
+      "text": "the Committee on Civil Liberties",
+      "label": "ORG",
+      "count": 6
+    },
+    {
+      "text": "PE-CONS",
+      "label": "ORG",
+      "count": 6
+    }
+  ],
+  "top_keywords": [
+    {
+      "keyword": "european",
+      "count": 79
+    },
+    {
+      "keyword": "report",
+      "count": 65
+    },
+    {
+      "keyword": "member",
+      "count": 61
+    },
+    {
+      "keyword": "country",
+      "count": 57
+    },
+    {
+      "keyword": "commission",
+      "count": 56
+    },
+    {
+      "keyword": "parliament",
+      "count": 53
+    },
+    {
+      "keyword": "states",
+      "count": 48
+    },
+    {
+      "keyword": "agreement",
+      "count": 48
+    },
+    {
+      "keyword": "like",
+      "count": 45
+    },
+    {
+      "keyword": "council",
+      "count": 41
+    },
+    {
+      "keyword": "thank",
+      "count": 40
+    },
+    {
+      "keyword": "community",
+      "count": 39
+    },
+    {
+      "keyword": "work",
+      "count": 38
+    },
+    {
+      "keyword": "area",
+      "count": 37
+    },
+    {
+      "keyword": "proposal",
+      "count": 37
+    },
+    {
+      "keyword": "president",
+      "count": 34
+    },
+    {
+      "keyword": "justice",
+      "count": 33
+    },
+    {
+      "keyword": "issue",
+      "count": 33
+    },
+    {
+      "keyword": "time",
+      "count": 29
+    },
+    {
+      "keyword": "procedure",
+      "count": 27
+    },
+    {
+      "keyword": "union",
+      "count": 27
+    },
+    {
+      "keyword": "legal",
+      "count": 26
+    },
+    {
+      "keyword": "need",
+      "count": 25
+    },
+    {
+      "keyword": "instrument",
+      "count": 23
+    },
+    {
+      "keyword": "cooperation",
+      "count": 22
+    },
+    {
+      "keyword": "criminal",
+      "count": 21
+    },
+    {
+      "keyword": "regulation",
+      "count": 21
+    },
+    {
+      "keyword": "commissioner",
+      "count": 21
+    },
+    {
+      "keyword": "right",
+      "count": 21
+    },
+    {
+      "keyword": "committee",
+      "count": 20
+    }
+  ],
+  "processed_at": "2026-02-18T02:22:18.680097"
+}

@@ -1,0 +1,239 @@
+{
+  "lang_pair": "de-en-20260218-nlp",
+  "total_records": 500,
+  "sentiment_distribution": {
+    "positive": 95,
+    "neutral": 385,
+    "negative": 20,
+    "total": 500,
+    "positive_pct": 19.0,
+    "neutral_pct": 77.0,
+    "negative_pct": 4.0
+  },
+  "avg_sentiment_score": 0.08,
+  "top_entities": [
+    {
+      "text": "Council",
+      "label": "ORG",
+      "count": 73
+    },
+    {
+      "text": "the Human Rights Council",
+      "label": "ORG",
+      "count": 35
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "count": 31
+    },
+    {
+      "text": "Commission",
+      "label": "ORG",
+      "count": 31
+    },
+    {
+      "text": "the European Union",
+      "label": "ORG",
+      "count": 29
+    },
+    {
+      "text": "European",
+      "label": "NORP",
+      "count": 26
+    },
+    {
+      "text": "Community",
+      "label": "ORG",
+      "count": 25
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "count": 24
+    },
+    {
+      "text": "the European Parliament",
+      "label": "ORG",
+      "count": 22
+    },
+    {
+      "text": "Deprez",
+      "label": "PERSON",
+      "count": 16
+    },
+    {
+      "text": "UN",
+      "label": "ORG",
+      "count": 14
+    },
+    {
+      "text": "Member States",
+      "label": "GPE",
+      "count": 14
+    },
+    {
+      "text": "Darfur",
+      "label": "GPE",
+      "count": 10
+    },
+    {
+      "text": "the Member States",
+      "label": "GPE",
+      "count": 9
+    },
+    {
+      "text": "Zwiefka",
+      "label": "PERSON",
+      "count": 9
+    },
+    {
+      "text": "Mrs Pagano",
+      "label": "PERSON",
+      "count": 9
+    },
+    {
+      "text": "Justice",
+      "label": "ORG",
+      "count": 7
+    },
+    {
+      "text": "Home Affairs",
+      "label": "ORG",
+      "count": 7
+    },
+    {
+      "text": "House",
+      "label": "ORG",
+      "count": 6
+    },
+    {
+      "text": "European Parliament",
+      "label": "ORG",
+      "count": 6
+    }
+  ],
+  "top_keywords": [
+    {
+      "keyword": "council",
+      "count": 117
+    },
+    {
+      "keyword": "european",
+      "count": 84
+    },
+    {
+      "keyword": "human",
+      "count": 83
+    },
+    {
+      "keyword": "member",
+      "count": 63
+    },
+    {
+      "keyword": "rights",
+      "count": 56
+    },
+    {
+      "keyword": "country",
+      "count": 54
+    },
+    {
+      "keyword": "report",
+      "count": 54
+    },
+    {
+      "keyword": "parliament",
+      "count": 51
+    },
+    {
+      "keyword": "work",
+      "count": 47
+    },
+    {
+      "keyword": "states",
+      "count": 47
+    },
+    {
+      "keyword": "agreement",
+      "count": 47
+    },
+    {
+      "keyword": "commission",
+      "count": 45
+    },
+    {
+      "keyword": "right",
+      "count": 45
+    },
+    {
+      "keyword": "union",
+      "count": 39
+    },
+    {
+      "keyword": "president",
+      "count": 38
+    },
+    {
+      "keyword": "like",
+      "count": 36
+    },
+    {
+      "keyword": "area",
+      "count": 36
+    },
+    {
+      "keyword": "community",
+      "count": 33
+    },
+    {
+      "keyword": "thank",
+      "count": 31
+    },
+    {
+      "keyword": "justice",
+      "count": 31
+    },
+    {
+      "keyword": "proposal",
+      "count": 30
+    },
+    {
+      "keyword": "procedure",
+      "count": 27
+    },
+    {
+      "keyword": "issue",
+      "count": 24
+    },
+    {
+      "keyword": "legal",
+      "count": 23
+    },
+    {
+      "keyword": "year",
+      "count": 22
+    },
+    {
+      "keyword": "resolution",
+      "count": 21
+    },
+    {
+      "keyword": "time",
+      "count": 21
+    },
+    {
+      "keyword": "matter",
+      "count": 20
+    },
+    {
+      "keyword": "say",
+      "count": 20
+    },
+    {
+      "keyword": "rapporteur",
+      "count": 19
+    }
+  ],
+  "processed_at": "2026-02-18T02:22:18.653954"
+}

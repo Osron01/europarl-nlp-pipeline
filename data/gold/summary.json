@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-02-18T02:22:18.693887",
+  "language_pairs": [
+    "de-en-20260218-nlp",
+    "fr-en-20260218-nlp",
+    "bg-en-20260218-nlp",
+    "es-en-20260218-nlp"
+  ],
+  "total_records_processed": 2000,
+  "sentiment_by_lang": {
+    "de-en-20260218-nlp": {
+      "positive": 95,
+      "neutral": 385,
+      "negative": 20,
+      "total": 500,
+      "positive_pct": 19.0,
+      "neutral_pct": 77.0,
+      "negative_pct": 4.0
+    },
+    "fr-en-20260218-nlp": {
+      "positive": 94,
+      "neutral": 387,
+      "negative": 19,
+      "total": 500,
+      "positive_pct": 18.8,
+      "neutral_pct": 77.4,
+      "negative_pct": 3.8
+    },
+    "bg-en-20260218-nlp": {
+      "positive": 94,
+      "neutral": 377,
+      "negative": 29,
+      "total": 500,
+      "positive_pct": 18.8,
+      "neutral_pct": 75.4,
+      "negative_pct": 5.8
+    },
+    "es-en-20260218-nlp": {
+      "positive": 93,
+      "neutral": 388,
+      "negative": 19,
+      "total": 500,
+      "positive_pct": 18.6,
+      "neutral_pct": 77.6,
+      "negative_pct": 3.8
+    }
+  },
+  "avg_sentiment_by_lang": {
+    "de-en-20260218-nlp": 0.08,
+    "fr-en-20260218-nlp": 0.08,
+    "bg-en-20260218-nlp": 0.067,
+    "es-en-20260218-nlp": 0.079
+  }
+}
